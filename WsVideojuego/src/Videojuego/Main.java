@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Muniemon muniemon1 = null;
-        Muniemon muniemon2 = null;
+        Muniemon muniemon2 = null ;
 
         int opcion;
         do {
